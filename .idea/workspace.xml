@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1185ef2f-1e04-4c32-8b1c-20c277c3ce9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/nodde-modules/e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/e.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/e.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
